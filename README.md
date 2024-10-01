@@ -38,7 +38,7 @@ Restaurant-Review-System/
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://
+    git clone https://github.com/tejasdhamange/Restaurant-review-analysis-system-using-NLP
     cd Restaurant-Review-Analysis-System
     ```
 
